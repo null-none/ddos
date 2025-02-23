@@ -1,10 +1,10 @@
-package ddos
+package main
 
 import (
 	"fmt"
 	"time"
 
-	ddos "github.com/null-none/ddos"
+	ddos "github.com/null-none/ddos/runner"
 )
 
 func main() {
